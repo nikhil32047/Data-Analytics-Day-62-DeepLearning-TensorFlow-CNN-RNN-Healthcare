@@ -1,0 +1,59 @@
+ Deep Learning & AI Applications
+
+🔹 Lesson 1: Deep Learning Essentials
+=====================================
+Summary:
+Deep learning uses neural networks with multiple layers to automatically learn complex patterns from large datasets.
+Works well for images, audio, and text
+Requires large datasets + GPUs for training
+
+Example:
+Classifying handwritten digits (MNIST dataset) with 98%+ accuracy using a neural network.
+
+
+🔹 Lesson 2: TensorFlow for Beginners
+=====================================
+Summary:
+TensorFlow is a popular framework for building deep learning models.
+Build computational graphs
+Train models efficiently on CPU/GPU
+Large community + pre-trained models available
+
+Example:
+Training a simple neural network to classify flowers using TensorFlow.
+
+
+🔹 Lesson 3: Convolutional Neural Networks (CNNs)
+================================================
+Summary:
+CNNs are specialized for image processing.
+Layers: Convolution → Pooling → Fully Connected
+Detect edges, shapes, then full objects
+
+Example:
+Detecting cats vs dogs in pictures with a CNN trained on image datasets.
+
+
+🔹 Lesson 4: NLP with Recurrent Neural Networks (RNNs)
+=====================================================
+Summary:
+RNNs are designed for sequential data (like text).
+Memory of past inputs → good for sentences
+Used in chatbots, translations, and speech recognition
+
+Example:
+Predicting the next word in a sentence using an RNN language model.
+
+
+🔹 Lesson 5: Case Study – Healthcare Predictive Analytics
+=========================================================
+Summary:
+Deep learning models help in medical diagnosis.
+CNNs → detect tumors in X-rays
+RNNs → predict patient readmission risk
+TensorFlow → scalable deployment
+
+Example:
+A hospital reduced readmission rates by 12% using predictive analytics with RNNs.
+
+
